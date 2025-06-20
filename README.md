@@ -80,5 +80,3 @@ A real-time chat application implemented in **Python** using socket programming 
 * 🌐 Messages are encoded/decoded using **UTF-8**
 
 ---
-
-Let me know if you want to add badges (like Python version, license, etc.) or a preview GIF to your README!
